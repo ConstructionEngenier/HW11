@@ -139,16 +139,38 @@ a {
 
 .box-green {
 
+    background-color: #E1F5EA;
+    padding: 20px 15px;
+    margin-bottom: 25px;
+    border-radius: 5px;
+
 }
 
 .box-purple {
+
+    background-color: #EBDCF9;
+    padding: 20px 15px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+    border-radius: 5px;
 
 }
 
 .text-large {
 
+    font-size: 30px;
+    font-weight: bold;
+
 }
 
 .button-link {
+
+    background-color: #554AF0;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 10px;
+    border-style: none;
+    border-radius: 5px;
+    text-decoration: none;
 
 }
